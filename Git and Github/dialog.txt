@@ -1,1 +1,6 @@
+case 1 : when file untracked 
+use 1.command -git init
+use 2.command U - git add filename (in open with integrated terminal)
+ use 3.command changes A : staged (git commit -m "message")
 
+ case 2: 
