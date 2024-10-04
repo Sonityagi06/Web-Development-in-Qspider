@@ -1,3 +1,5 @@
 hii 
 world
 nobita
+doremon
+sizuka
